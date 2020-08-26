@@ -1,0 +1,26 @@
+/* IDENTIFY AND CONNECT */
+
+.slds-col--padded comm-content-header comm-layout-column .ui-widget {
+    border: 5px solid #7f679b;
+    border-radius: 5px;
+}
+
+.slds-size_1-of-1 ListManagerTitle slds-align_absolute-center slds-text-heading_large {
+    background-color: #7f679b;
+    color: white;
+}
+
+.slds-grid slds-wrap slds-size_1-of-1 visualizerContainer prounitasVisualizer {
+    border: 5px solid #7f679b;
+    border-radius: 5px;
+}
+
+.slds-size_1-of-1 visualizerTitle slds-align_absolute-center slds-text-heading_large {
+    background-color: #7f679b;
+    color: white;
+}
+
+/* NAV BAR */
+.siteforceCptBody .cHeader .cHeaderTop {
+    background-color: #4554a5;
+}
