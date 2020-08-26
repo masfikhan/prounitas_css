@@ -22,14 +22,14 @@ header.forceHighlightsPanel.forceCommunityRecordHeadline {
 }
 
 /* connect to intervention */
-.slds interventionCreator prounitasInterventionCreator .slds-p-around_medium {
+.slds-p-around_medium {
     border: 5px solid #7f679b;
     border-radius: 5px;
 }
 
 .slds-text-heading_medium slds-align_absolute-center interventionCreatorTitle {
-    background-color: #7f679b;
-    text-align: center;
+    background-color: #7f679b !important;
+    text-align: center !important;
 }
 
 /* NAV BAR */
