@@ -1,0 +1,38 @@
+/* STUDENT RECORDS */
+.forceCommunityRecordHeadline .forceRecordLayout.slds-page-header {
+    background-color: #4554a5;
+}
+
+header.forceHighlightsPanel.forceCommunityRecordHeadline {
+    color: white;
+}
+
+.forceHighlightsStencilDesktop .entityNameTitle {
+    color: white !important;
+}
+
+/* student info */
+.uiTabBar {
+    background-color: #4554a5;
+    padding-left: 5px;
+}
+
+.tabs__item a {
+    color: white !important;
+}
+
+/* connect to intervention */
+.slds interventionCreator prounitasInterventionCreator .slds-p-around_medium {
+    border: 5px solid #7f679b;
+    border-radius: 5px;
+}
+
+.slds-text-heading_medium slds-align_absolute-center interventionCreatorTitle {
+    background-color: #7f679b;
+    text-align: center;
+}
+
+/* NAV BAR */
+.siteforceCptBody .cHeader .cHeaderTop {
+    background-color: #4554a5;
+}
